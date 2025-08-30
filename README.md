@@ -1,7 +1,7 @@
 # ESP32 Tft_eSPI library to LovyanGFX library transition
 The [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author since many months. It might be a good idea to transist your project to LovyanGFX library.
 
-This is the accompanying repository for my article "**How to use the LovyanGFX library instead of the TFT_eSPI library in your ESP32 project**" available here:
+This is the accompanying repository for my article "**How to use the LovyanGFX library instead of the TFT_eSPI library in your ESP32 project**" available here: https://medium.com/@androidcrypto/how-to-use-the-lovyangfx-library-instead-of-the-tft-espi-library-in-your-esp32-project-f7fc3b4954a8
 
 ## Runtime Environment
 ````plaintext
