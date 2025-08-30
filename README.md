@@ -37,21 +37,27 @@ There are 6 example sketches available in the folders. In each "Example x" folde
 
 ### Example 1 Benchmark: 
 uses the basic drawing elements like "drawString", "drawLine" or "drawCircle". In the end, a benchmark is displayed.
-![Image 1](./images/esp32_epaper_meteomatics_04_600w.png)
+
+![Image 1](./images/example_1_result_400h.png)
 ### Example 2 Fonts: 
 TFT_eSPI comes with easy access to the "Adafruit_GFX library" and all fonts are printed on the display
-![Image 1](./images/esp32_epaper_meteomatics_04_600w.png)
+
+![Image 2](./images/example_2_500w.png)
 ### Example 3 Keypad with Touch:
 There are two elements shown in the example: it displays several ('keypad') buttons (drawn by a dedicated class within the library) and the touch controller is active to react on a button push. A basic display touch calibration is shown as well
-![Image 1](./images/esp32_epaper_meteomatics_04_600w.png)
+
+![Image 3](./images/example_3_500h.png)
 ### xample 4 Images from LittleFS: 
 the example reads PNG encoded images from the LittleFS file system and shows them in a loop
-![Image 1](./images/esp32_epaper_meteomatics_04_600w.png)
+
+![Image 1](./images/example_4_500h.png)
 ### Example 5 Analog Meters Widget: 
 there is a supplementary library available for TFT_eSPI that adds some widgets to the library named "TFT_eWidget" and I'm showing how to use it with LovyanGFX
-![Image 1](./images/esp32_epaper_meteomatics_04_600w.png)
+
+![Image 1](./images/example_5_500h.png)
 ### Example 6 Animated Dial:
 this was the most sophisticated task to convert the code that it can run the example.
-![Image 1](./images/esp32_epaper_meteomatics_04_600w.png)
+
+![Image 1](./images/example_6_500h.png)
 
 
