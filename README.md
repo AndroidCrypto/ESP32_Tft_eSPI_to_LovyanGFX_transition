@@ -47,7 +47,7 @@ TFT_eSPI comes with easy access to the "Adafruit_GFX library" and all fonts are 
 There are two elements shown in the example: it displays several ('keypad') buttons (drawn by a dedicated class within the library) and the touch controller is active to react on a button push. A basic display touch calibration is shown as well
 
 ![Image 3](./images/example_3_500h.png)
-### xample 4 Images from LittleFS: 
+### Example 4 Images from LittleFS: 
 the example reads PNG encoded images from the LittleFS file system and shows them in a loop
 
 ![Image 1](./images/example_4_500h.png)
