@@ -7,7 +7,7 @@ This is the accompanying repository for my article "**How to use the LovyanGFX l
 ````plaintext
 Arduino 2.3.6 (Windows)
 esp32 boards version 3.2.0
-For compiling and uploading, I'm using the "ESP32-C3 Dev Module" board
+For compiling and uploading, I'm using the "ESP32 Dev Module" board
 ````
 
 ## Wiring of the 2.8-inches TFT Display with ILI9341 driver and resistive touch surface with XPT2046 controller
